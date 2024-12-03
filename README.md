@@ -32,7 +32,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://github.com/wogene-dev/portfolio-website.git
 ```
 
 2. Open `index.html` in your browser
@@ -44,7 +44,7 @@ Visit the live website: [Your Portfolio Website URL]
 ## Contact
 
 - GitHub: [@wogene-dev](https://github.com/wogene-dev)
-- Email: [Your Email]
+- Email: wtumato43@gmail.com
 
 ## License
 
